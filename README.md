@@ -1,2 +1,2 @@
 # VideoClubCatalogo
-Practica Java con Github
+Con persistencia en TXT
